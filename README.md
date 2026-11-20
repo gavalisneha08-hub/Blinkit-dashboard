@@ -63,4 +63,4 @@ Add your Power BI dashboard screenshot here.
 
 👩‍💻screenshots /Demos
 show what the dashboard looks like.
-Example:
+Example:https://github.com/gavalisneha08-hub/Blinkit-dashboard/blob/main/blinkit%20of%20the%20Dashboard.png
